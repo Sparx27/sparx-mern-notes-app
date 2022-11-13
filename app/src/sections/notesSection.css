@@ -1,0 +1,17 @@
+.notesSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.completeForm {
+  width: 80%;
+  margin: 30px 0 25px 0;
+  padding: 10px;
+  border: 1px solid #314047;
+  border-radius: 10px;
+  background-color: #afc5d3;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,25 @@
+.usersSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: .3s all ease;
+}
+
+.usersSection h1 {
+  margin: 0;
+  font-size: 3rem;
+}
+
+.usersSection h2 {
+  margin-top: 20px;
+}
+
+.divMessage {
+  display: flex;
+  align-items: center;
+  height: 50px;
+}
+.divMessage h2 {
+  margin-top:8px;
+}

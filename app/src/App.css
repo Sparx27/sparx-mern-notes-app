@@ -1,0 +1,24 @@
+/* :root {
+  --color1: #282c34;
+  --color2: #61dafb;
+} */
+
+.mainPage {
+  min-height: 100vh;
+  padding-bottom: 10px;
+  background: linear-gradient(to right, #d6dde2, #76a2ce);
+}
+
+.bg-myBg {
+  background-color: #313847;
+}
+
+.logo {
+  width: 60px;
+  height: auto;
+  margin-right: 8px;
+}
+
+.links {
+  font-size: 20px;
+}

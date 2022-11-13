@@ -1,0 +1,18 @@
+.searchFormInput {
+  display: flex;
+  flex-direction: row;
+}
+
+.options {
+  margin: 0 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+@media screen and (max-width: 992px) {
+  .options {
+    flex-direction: column;
+  }
+}

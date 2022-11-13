@@ -1,0 +1,10 @@
+.noteContainer {
+  padding: 15px 8px;
+  border-bottom: 1px solid #576a7c;
+  display: grid;
+  grid-template-columns: 80% 20%;
+}
+
+.hide {
+  visibility: hidden;
+}

@@ -1,0 +1,8 @@
+POST http://localhost:5001/api/notes
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNmFkOTAyYTI3N2VlYWIwNjUzMzYwNSIsInVzZXJuYW1lIjoiTmV3IFVzZXIiLCJpYXQiOjE2Njc5NTk3NDAsImV4cCI6MTY2ODIxODk0MH0.3MwhoHYk_0xEmBiJS9ebZ8Gj9CegJkKKWvKRZbW5mik
+
+{
+  "content": "Correct token with userExtractor",
+  "important": true
+}
